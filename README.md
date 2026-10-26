@@ -44,9 +44,10 @@ Before and After Results
 The increase in the number of columns is due to one-hot encoding of categorical variables.
 
 Files in This Project
-	•	Data_cleaning.py – Python script used for data cleaning and preprocessing.
-	•	cleaned_census_income.csv – Final cleaned and preprocessed dataset.
-	•	README.md – Project documentation.
+Data_cleaning.py` — Python script for data cleaning and preprocessing.
+cleaned_census_income.zip` — ZIP archive containing the cleaned dataset.
+Week1_Data_cleaning_Report.docx` — Week 1 internship report.
+README.md` — Project documentation.
 
 Conclusion
 
